@@ -1,0 +1,2 @@
+# scripts
+pratice shell script
